@@ -1,0 +1,5 @@
+{
+  "name": "Text2APK.ai",
+  "description": "A production-ready AI platform that converts natural language descriptions into native Android applications using Gemini 3.0 Pro.",
+  "requestFramePermissions": []
+}
